@@ -1,4 +1,4 @@
-<table>
+<body>
   <h1>Access Control System</h1>
   <br>
   <h2>CISSP Glossary - Student Guide</h2>
@@ -23,4 +23,4 @@
   <h2>Simple in Daily life</h2>
   <h4>  -การเข้าออกอาคาร : ใช้บัตรผ่าน</h4>
   <h4>  -การเข้าถึงข้อมูลภายใน : มีการกำหนดสิทธิ์การเข้าถึงตามตำแหน่งงาน</h4>
-</table>
+</body>
