@@ -31,5 +31,5 @@
 - [Chonnikarn Sangwang](https://nixe97.github.io/boardgame.html)
 - Natnicha Nontraudon
 - [Supawadee Muangprasert](https://donyweasley.github.io/boardgame)
-- Jakapob Siwakulrangsun
-- Tanatorn Jitsatsawan
+- [Jakapob Siwakulrangsun](https://ioosck4.github.io/boardgame)
+- [Tanatorn Jitsatsawan](https://6530200207.github.io/boardgame)
