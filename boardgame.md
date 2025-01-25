@@ -20,3 +20,5 @@
 ![alt text](photo/pit3.jpg)
 
 # VDO บรรยากาศกิจกรรม
+[![NCSA](photo/boardgame.jpg)](https://youtu.be/2hpcDR_QJQM?feature=shared)
+> ทั้งนี้ทางกลุ่มผู้จัดได้ขออนุญาตผู้เข้าร่วมถ่ายภาพและวิดีโอเพื่อบันทึกภาพกิจกรรมดังกล่าวเรียบร้อยแล้ว
