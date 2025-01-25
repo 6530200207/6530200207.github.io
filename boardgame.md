@@ -13,3 +13,7 @@
 - นิสิตสาขาการบัญชี 2 คน
 - สมาชิกกลุ่มผู้จัดทำ 4 คน
 - ตัวแทนถ่ายวีดีโอกิจกรรม 1 คน
+
+![alt text](photo/pid1.jpg)
+![alt text](photo/pid2.jpg)
+![alt text](photo/pid23.jpg)
