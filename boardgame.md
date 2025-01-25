@@ -26,3 +26,10 @@
 # สิ่งที่ได้รับจากกิจกรรม
 - สามารถเข้าใจถึง ความเสี่ยงและการป้องกันภัยในโลกไซเบอร์ได้ดียิ่งขึ้น
 - กิจกรรมยังช่วยส่งเสริมให้เกิด พฤติกรรมที่ปลอดภัยในสังคมดิจิทัลได้อย่างมีประสิทธิภาพ
+
+# สมาชิกกลุ่ม
+- [Chonnikarn Sangwang](https://nixe97.github.io/boardgame.html)
+- Natnicha Nontraudon
+- Supawadee Muangprasert
+- Jakapob Siwakulrangsun
+- Tanatorn Jitsatsawan
